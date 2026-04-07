@@ -1,4 +1,4 @@
-
+<img src="cover.png" width="70%">
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
@@ -10,7 +10,9 @@
 
 # MIMIC Transformer Clinical AI
 
-Project package.
+Author: YIRANG JUNG  
+
+All Rights Reserved © Yirang Jung (2026)
 
 
 ## Transformer-Based Clinical Time-Series Modeling
@@ -88,9 +90,10 @@ Predict ICU mortality (binary)
 ## Author
 
 Yirang Jung
-
+Veterinarian · Medical Researcher · AI Big Data Specialist
 ---
 
 ## License
 
 All Rights Reserved © Yirang Jung 2026
+All images and visual materials in this repository are protected by copyright. Unauthorized use, reproduction, or distribution is prohibited.
